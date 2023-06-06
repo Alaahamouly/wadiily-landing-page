@@ -211,6 +211,7 @@
   .info-content p {
     font-size: 2rem;
     line-height: 3rem;
+    width: 95%;
   }
 
   .info-content span {
