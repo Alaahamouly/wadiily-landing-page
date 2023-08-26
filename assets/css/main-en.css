@@ -777,6 +777,26 @@ h4.items-title {
     justify-content: center;
   }
 
+  .footer .footer-info {
+    padding: 5.938rem 1rem;
+  }
+
+  .footer .footer-info img {
+    width: 230px;
+  }
+
+  .transport-title h2 {
+    font-size: 2rem;
+  }
+
+  .team .title {
+    font-size: 2.5rem;
+  }
+
+  .team .subtitle {
+    font-size: 2rem;
+  }
+
   /* .footer {
     justify-content: center;
     flex-direction: column;

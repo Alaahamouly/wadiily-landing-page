@@ -599,12 +599,10 @@ h4.items-title {
     width: 500px;
   }
 
-
   .join-teams .teams-logos {
     flex-wrap: wrap;
   }
 }
-
 
 @media (max-width: 1200px) {
   .info-image img {
@@ -741,7 +739,7 @@ h4.items-title {
     width: 95%;
   }
 
- .trademark {
+  .trademark {
     flex-direction: column;
   }
 
@@ -766,8 +764,26 @@ h4.items-title {
   .team .leaders {
     justify-content: center;
   }
-  
 
+  .footer .footer-info {
+    padding: 5.938rem 1rem;
+  }
+
+  .footer .footer-info img {
+    width: 230px;
+  }
+
+  .transport-title h2 {
+    font-size: 2rem;
+  }
+
+  .team .title {
+    font-size: 2.5rem;
+  }
+
+  .team .subtitle {
+    font-size: 2rem;
+  }
   /* .footer {
     justify-content: center;
     flex-direction: column;
