@@ -175,7 +175,7 @@
   bottom: 0;
   width: 100%;
   height: 100%;
-  background-image: url("/assets/images/transport-bg.svg");
+  background-image: url("../images/transport-bg.svg");
   background-repeat: no-repeat;
   background-size: cover;
   background-position: bottom center, 50%, 50%;
@@ -307,7 +307,7 @@ h4.items-title {
   bottom: 0;
   width: 100%;
   height: 100%;
-  background-image: url("/assets/images/team-features-background.svg");
+  background-image: url("../images/team-features-background.svg");
   background-repeat: no-repeat;
   background-size: cover;
   background-position: bottom center, 50%, 50%;
@@ -458,7 +458,7 @@ h4.items-title {
   bottom: 0;
   width: 100%;
   height: 100%;
-  background-image: url("/assets/images/footer-apply-bg.svg");
+  background-image: url("../images/footer-apply-bg.svg");
   background-repeat: no-repeat;
   background-size: cover;
   background-position: bottom center, 50%, 50%;
